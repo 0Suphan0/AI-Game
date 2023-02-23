@@ -1,2 +1,2 @@
 # AI Game
- AI odaklı geliştirilmiş oyun.
+ Unity AI assistant orianted simple gameplay demo.
